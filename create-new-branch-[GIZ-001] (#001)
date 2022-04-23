@@ -1,1 +1,8 @@
 console.log("Hello")
+
+function addNumbers(a, b) {
+    c = a + b;
+    console.log("a + b =", c);
+}
+
+addNumbers(2, 3)
